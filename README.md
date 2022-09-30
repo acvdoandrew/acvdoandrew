@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and mastering React**
 
-- 📫 You can reach me at **acvdoandrew@gmail.com**
+- 📫 Reach me at **acvdoandrew@gmail.com**
 
 - ⚡ Fun fact: **I peaked Masters in League!**
 
