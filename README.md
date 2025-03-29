@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋, I'm Andrew</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from Boston!</h3>
 
-- 🌱 I’m currently learning **Python and Rust**
+- 🌱 I’m currently learning **C++ and Rust**
 
 - 📫 Reach me at **acvdoandrew@gmail.com**
 
