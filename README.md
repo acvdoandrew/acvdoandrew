@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! 👋, I'm Andrew</h1>
-<h3 align="center">A passionate Computer Science Student from Boston!</h3>
+<h1 align="center">Andrew Acevedo Mirena</h1>
+<h3 align="center">Engineering Autonomous Systems & High-Performance Compute.</h3>
 
 - 🌱 I’m currently learning **C++ and Python**
 
