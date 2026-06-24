@@ -63,7 +63,6 @@ rust_edge_compute:
   stack: Rust, Tokio, Tonic/gRPC, Ratatui, NVML
   mission: distributed worker-node prototype for decentralized AI compute experiments
 
-
 high_performance_physics_engine:
   status: needs benchmarks
   stack: C++17, CMake, spatial hashing
