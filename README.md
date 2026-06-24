@@ -63,10 +63,6 @@ rust_edge_compute:
   stack: Rust, Tokio, Tonic/gRPC, Ratatui, NVML
   mission: distributed worker-node prototype for decentralized AI compute experiments
 
-speculative_inference_proxy:
-  status: compiling the monster
-  stack: Rust, Python, Axum/FastAPI, vLLM-compatible APIs
-  mission: streaming, provider routing, TTFT logging, speculative decoding later
 
 high_performance_physics_engine:
   status: needs benchmarks
@@ -89,8 +85,8 @@ systems_programming:
 ai_infra:
   - Python
   - FastAPI
-  - vLLM
-  - inference gateways
+  - model APIs
+  - agent evals
   - eval harnesses
 
 security_labs:
