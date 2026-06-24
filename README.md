@@ -34,7 +34,7 @@
 
 ### // KERNEL PANIC
 
-<pre>
+```bash
 user@arch-linux:~$ fastfetch
 -------------------------
 OS:        Arch Linux x86_64
@@ -45,13 +45,13 @@ Editor:    Neovim
 Focus:     Rust infra, AI systems, security labs
 Main Quest: ARES - Airspace Reasoning & Evaluation Sandbox
 Status:    building proof-of-work, not LinkedIn rituals
-</pre>
+```
 
 <br />
 
 ### // CURRENT QUESTS
 
-<pre>
+```txt
 ARES:
   name: Airspace Reasoning & Evaluation Sandbox
   status: designing / first repo soon
@@ -72,13 +72,13 @@ high_performance_physics_engine:
   status: needs benchmarks
   stack: C++17, CMake, spatial hashing
   mission: simulation loops, memory layout, collision detection, optimization tradeoffs
-</pre>
+```
 
 <br />
 
 ### // CURRENTLY INSTALLING
 
-<pre>
+```txt
 systems_programming:
   - Rust
   - C++
@@ -105,19 +105,19 @@ product_surface:
   - React
   - MapLibre
   - dashboards
-</pre>
+```
 
 <br />
 
 ### // OPERATING PRINCIPLES
 
-<pre>
+```txt
 - weird aesthetic, precise claims
 - LLM suggests, deterministic systems verify
 - public artifacts over corporate personality rituals
 - build the thing, benchmark the thing, break the thing, explain the thing
 - no fake credentials, no fake guru voice, no LinkedIn cult ceremonies
-</pre>
+```
 
 <br />
 
