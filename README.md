@@ -42,21 +42,45 @@ Role:      Amazon PA by night / systems goblin by choice
 Shell:     bash
 Terminal:  Ghostty
 Editor:    Neovim
-Focus:     Rust infra, AI systems, security labs
-Main Quest: ARES - Airspace Reasoning & Evaluation Sandbox
+Focus:     deterministic systems, AI agent infrastructure, security labs
+Main Quest: PROJECT_ARES - civilization runtime with Rust veto power
 Status:    building proof-of-work, not LinkedIn rituals
 ```
+
+<br />
+
+### // FLAGSHIP SYSTEM: PROJECT_ARES
+
+> **I put AI agents in a tiny civilization and gave Rust veto power.**
+
+```txt
+world:     frontier-seed-v0.1
+model:     agents observe -> agents propose -> Rust validates and commits
+status:    first deterministic settlement turn shipped
+proof:     typed actions, checked arithmetic, atomic rejection, versioned records
+roadmap:   projects -> scripted policies -> replay verification -> dashboard -> hosted models
+rule:      the model cannot narrate resources into existence
+```
+
+<div align="center">
+
+<a href="https://github.com/acvdoandrew/project-ares">
+  <img src="https://img.shields.io/badge/Explore_PROJECT__ARES-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 <br />
 
 ### // CURRENT QUESTS
 
 ```txt
-ARES:
-  name: Airspace Reasoning & Evaluation Sandbox
-  status: designing / first repo soon
-  stack: Rust, Python, TypeScript, FastAPI, MapLibre
-  mission: deterministic simulation + AI evals + defense-style decision support
+PROJECT_ARES:
+  name: deterministic civilization-agent sandbox
+  status: active / public / frontier settlement v0.1
+  stack: Rust now; TypeScript and model providers only after replay works
+  mission: compare how agent policies shape survival, resilience, and technological progress
+  repo: github.com/acvdoandrew/project-ares
 
 rust_edge_compute:
   status: active MVP
@@ -98,8 +122,8 @@ security_labs:
 product_surface:
   - TypeScript
   - React
-  - MapLibre
-  - dashboards
+  - debugging dashboards
+  - replay visualization
 ```
 
 <br />
